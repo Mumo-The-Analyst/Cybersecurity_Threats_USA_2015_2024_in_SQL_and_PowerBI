@@ -333,7 +333,7 @@ This project provided several general insights:
 
 - **Trend Over Time:** From 2015 to 2024, both cybersecurity incidents and financial losses in the USA have fluctuated, with no consistent upward or downward trend, highlighting the unpredictable nature of threat landscapes.
 - **Peak Year & Major Threat:** The year 2017 recorded the highest financial loss ($1.83B) and one of the highest incident counts (33), with DDoS attacks being the major contributing attack type, indicating their large-scale economic impact.
-- **Cost Per Incident:** The average financial loss per incident varied yearly, peaking in 2015 at $55.9M per attack, then experiencing fluctuations. The sharpest drop occurred in 2016 (−14.22%), showing that higher incident volumes don’t always mean higher cost per attack.
+- **Cost Per Incident:** The average financial loss per incident varied annually, peaking in 2015 at $55.9M per attack, then experiencing fluctuations. The sharpest drop occurred in 2016 (−14.22%), showing that higher incident volumes don’t always mean higher cost per attack.
 - **Incidents vs. Financial Loss Correlation:** While there is a general correlation between the number of incidents and financial loss, some years (e.g., 2021, 2023) saw fewer incidents with disproportionately high financial losses, indicating the presence of fewer but more severe attacks.
 
 ## What I learned
